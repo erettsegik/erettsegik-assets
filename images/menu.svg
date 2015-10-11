@@ -15,7 +15,10 @@
    id="svg4178"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="menu.svg">
+   sodipodi:docname="menu.svg"
+   inkscape:export-filename="C:\Users\homboli\Documents\GitHub\erettsegik-assets\images\menu.png"
+   inkscape:export-xdpi="38.228935"
+   inkscape:export-ydpi="38.228935">
   <defs
      id="defs4180" />
   <sodipodi:namedview
@@ -25,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.24748737"
-     inkscape:cx="-1999.7978"
-     inkscape:cy="-137.73159"
+     inkscape:zoom="0.35"
+     inkscape:cx="1606.0151"
+     inkscape:cy="14.87622"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -44,7 +47,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -52,28 +55,22 @@
      inkscape:label="1. réteg"
      inkscape:groupmode="layer"
      id="layer1">
-    <circle
-       style="fill:none;fill-rule:evenodd;stroke:#ffb938;stroke-width:27;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path3338"
-       cx="372.04724"
-       cy="526.18109"
-       r="231.19312" />
     <rect
-       style="fill:none;stroke:#ffb938;stroke-width:25.49250412;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;stroke:#ffffff;stroke-width:25.49250412;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
        id="rect4192-4"
        width="290.41113"
        height="17.916542"
        x="225.50871"
        y="421.38922" />
     <rect
-       style="fill:none;stroke:#ffb938;stroke-width:25.49250412;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;stroke:#ffffff;stroke-width:25.49250412;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
        id="rect4192-4-0"
        width="290.41113"
        height="17.916542"
        x="225.50871"
        y="517.39655" />
     <rect
-       style="fill:none;stroke:#ffb938;stroke-width:25.49250412;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;stroke:#ffffff;stroke-width:25.49250412;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
        id="rect4192-4-0-8"
        width="290.41113"
        height="17.916542"

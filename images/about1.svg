@@ -15,10 +15,10 @@
    id="svg4911"
    version="1.1"
    inkscape:version="0.91 r13725"
-   inkscape:export-filename="C:\Users\homboli\Documents\GitHub\erettsegik-vagrant\src\img\about-blue.png"
-   inkscape:export-xdpi="32.904087"
-   inkscape:export-ydpi="32.904087"
-   sodipodi:docname="about.svg">
+   inkscape:export-filename="NOTEEE"
+   inkscape:export-xdpi="18.390383"
+   inkscape:export-ydpi="18.390383"
+   sodipodi:docname="about1.svg">
   <defs
      id="defs4913" />
   <sodipodi:namedview
@@ -28,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.087499999"
-     inkscape:cx="1254.7823"
-     inkscape:cy="1652.0426"
+     inkscape:zoom="1.4"
+     inkscape:cx="-11.897259"
+     inkscape:cy="474.60712"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -55,43 +55,49 @@
      inkscape:label="1. réteg"
      inkscape:groupmode="layer"
      id="layer1">
+    <circle
+       style="fill:none;fill-rule:evenodd;stroke:#123952;stroke-width:27;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path3338"
+       cx="372.04724"
+       cy="526.18109"
+       r="231.19312" />
     <rect
-       style="fill:none;fill-opacity:1;stroke:#424141;stroke-width:12;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#123952;stroke-width:12;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4136"
        width="260.61935"
        height="157.5838"
        x="241.73756"
        y="447.38919" />
     <rect
-       style="fill:none;fill-opacity:1;stroke:#424141;stroke-width:11.561;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#ffffff;fill-opacity:1;stroke:#123952;stroke-width:12.96059418;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4138"
        width="57.628254"
        height="68.739937"
        x="268.17072"
        y="475.03522" />
     <rect
-       style="fill:none;fill-opacity:1;stroke:#424141;stroke-width:12.07903385;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#ffffff;fill-opacity:1;stroke:#123952;stroke-width:12.07903385;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4140"
        width="111.03775"
        height="0.93111902"
        x="359.17413"
        y="475.60461" />
     <rect
-       style="fill:none;fill-opacity:1;stroke:#424141;stroke-width:12.07903385;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#ffffff;fill-opacity:1;stroke:#123952;stroke-width:12.07903385;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4140-8"
        width="111.03775"
        height="0.93111902"
        x="359.66647"
        y="508.68713" />
     <rect
-       style="fill:none;fill-opacity:1;stroke:#424141;stroke-width:12.08626366;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#ffffff;fill-opacity:1;stroke:#123952;stroke-width:12.08626366;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4140-8-8"
        width="112.04067"
        height="0.92388916"
        x="359.65744"
        y="541.77325" />
     <rect
-       style="fill:none;fill-opacity:1;stroke:#424141;stroke-width:12.071;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#ffffff;fill-opacity:1;stroke:#123952;stroke-width:12.47143555;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4140-8-2"
        width="204.58952"
        height="0.53871733"

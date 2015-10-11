@@ -18,7 +18,7 @@
    inkscape:export-filename="NOTEEE"
    inkscape:export-xdpi="18.390383"
    inkscape:export-ydpi="18.390383"
-   sodipodi:docname="feedback.svg">
+   sodipodi:docname="feedback1.svg">
   <defs
      id="defs4913" />
   <sodipodi:namedview
@@ -28,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994948"
-     inkscape:cx="339.3001"
-     inkscape:cy="379.88681"
+     inkscape:zoom="0.35"
+     inkscape:cx="-280.88362"
+     inkscape:cy="375.80533"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -55,23 +55,17 @@
      inkscape:label="1. réteg"
      inkscape:groupmode="layer"
      id="layer1">
+    <path
+       style="fill:#424141;fill-opacity:1;fill-rule:evenodd;stroke:#424141;stroke-width:0.97966492px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 322.00589,616.25631 100.0827,0 40.04141,-370.85111 -180.165,2.2e-4 z"
+       id="path4136"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
     <circle
-       style="fill:none;fill-rule:evenodd;stroke:#ffb938;stroke-width:27;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path3338"
+       style="fill:#424141;fill-opacity:1;stroke:#424141;stroke-width:10.67989063;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4138"
        cx="372.04724"
-       cy="526.18109"
-       r="231.19312" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:607.17510986px;line-height:125%;font-family:Courier;-inkscape-font-specification:Courier;letter-spacing:0px;word-spacing:0px;fill:#ffb938;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="163.84106"
-       y="911.69019"
-       id="text4180"
-       sodipodi:linespacing="125%"
-       transform="scale(1.3131726,0.76151451)"><tspan
-         sodipodi:role="line"
-         id="tspan4182"
-         x="163.84106"
-         y="911.69019">!</tspan></text>
+       cy="702.36224"
+       r="54.98127" />
   </g>
 </svg>
