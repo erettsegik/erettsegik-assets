@@ -15,7 +15,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="logout.svg">
+   sodipodi:docname="logout.svg"
+   inkscape:export-filename="C:\Users\Gergely\erettsegik-vagrant\src\img\dashboard\logout.png"
+   inkscape:export-xdpi="59.195503"
+   inkscape:export-ydpi="59.195503">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -25,16 +28,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="-858.79986"
-     inkscape:cy="916.93443"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="345.82461"
+     inkscape:cy="594.87736"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1680"
-     inkscape:window-height="987"
-     inkscape:window-x="-4"
-     inkscape:window-y="-4"
+     inkscape:window-width="1024"
+     inkscape:window-height="538"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata7">
@@ -44,7 +47,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -53,7 +56,7 @@
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="fill:#828282;fill-opacity:1;stroke:#424141;stroke-width:21.992;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#828282;fill-opacity:1;stroke:#424141;stroke-width:22;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:round;fill-rule:nonzero"
        id="rect4142"
        width="316.21759"
        height="433.59839"
@@ -62,14 +65,14 @@
     <g
        id="g4150"
        transform="matrix(0.90278889,0,0,0.92632853,40.42292,54.502885)"
-       style="fill:#424141;fill-opacity:1;stroke:#424141;stroke-opacity:1">
+       style="fill:#424141;fill-opacity:1;stroke:#424141;stroke-opacity:1;stroke-linejoin:round">
       <rect
-         y="473.30441"
-         x="394.21112"
-         height="96.448296"
-         width="129.25671"
+         y="472.88901"
+         x="407.22256"
+         height="97.279083"
+         width="116.66094"
          id="rect4144"
-         style="fill:#424141;fill-opacity:1;stroke:#424141;stroke-width:18.38319016;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="fill:#424141;fill-opacity:1;stroke:#424141;stroke-width:17.53959274;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <path
          transform="matrix(0.87637619,0,0,1.0109405,78.800189,44.845343)"
          inkscape:transform-center-x="-22.682705"
@@ -85,7 +88,7 @@
          sodipodi:cx="573.76666"
          sodipodi:sides="3"
          id="path4146"
-         style="fill:#424141;fill-opacity:1;stroke:#424141;stroke-width:19.04299927;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#424141;fill-opacity:1;stroke:#424141;stroke-width:19.04299927;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:round"
          sodipodi:type="star" />
     </g>
   </g>
