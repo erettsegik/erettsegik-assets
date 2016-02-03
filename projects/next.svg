@@ -12,15 +12,12 @@
    width="210mm"
    height="297mm"
    viewBox="0 0 744.09448819 1052.3622047"
-   id="svg2"
+   id="svg4152"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="logo.svg"
-   inkscape:export-filename="C:\Users\homboli\Documents\GitHub\erettsegik-assets\images\logo.png"
-   inkscape:export-xdpi="20.893024"
-   inkscape:export-ydpi="20.893024">
+   sodipodi:docname="next.svg">
   <defs
-     id="defs4" />
+     id="defs4154" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -28,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="406.94037"
-     inkscape:cy="473.54996"
+     inkscape:zoom="0.35"
+     inkscape:cx="-138.85041"
+     inkscape:cy="517.14286"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -40,13 +37,14 @@
      inkscape:window-y="-8"
      inkscape:window-maximized="1" />
   <metadata
-     id="metadata7">
+     id="metadata4157">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -55,11 +53,12 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       style="fill:#5c4568;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 459.27734 361.48633 L 385.25391 361.85938 L 366.16406 417.89062 L 410.76172 417.89062 L 459.27734 361.48633 z M 229.14258 438.21289 L 229.14258 483.21289 L 329.14258 603.21289 L 229.14258 743.21289 L 228.89258 788.21289 L 509.14258 788.21289 L 509.14258 698.21289 L 464.14258 698.21289 L 464.14258 743.21289 L 285.14453 743.21289 L 385.14453 603.21289 L 285.14453 483.21289 L 464.14258 483.21289 L 464.14258 528.21289 L 509.14258 528.21289 L 509.14258 438.21289 L 229.14258 438.21289 z "
-       id="path3336"
-       inkscape:export-filename="C:\Users\Gergely\erettsegik-assets\images\favico.png"
-       inkscape:export-xdpi="21.090792"
-       inkscape:export-ydpi="21.090792" />
+       style="opacity:1;fill:#424141;fill-opacity:1;stroke:#424141;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 482.74166,283.78951 -119.88454,-79.95913 -119.88449,-79.95913 0,51.49752 42.67283,28.46161 119.88451,79.95913 -119.88451,79.96085 -42.67283,28.46162 0,51.49752 119.88449,-79.95914 119.88454,-79.96085 z"
+       id="path4155"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Gergely\erettsegik-assets\images\next.png"
+       inkscape:export-xdpi="26.48332"
+       inkscape:export-ydpi="26.48332" />
   </g>
 </svg>

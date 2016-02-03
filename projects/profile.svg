@@ -15,10 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="logo.svg"
-   inkscape:export-filename="C:\Users\homboli\Documents\GitHub\erettsegik-assets\images\logo.png"
-   inkscape:export-xdpi="20.893024"
-   inkscape:export-ydpi="20.893024">
+   sodipodi:docname="profile.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -29,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="406.94037"
-     inkscape:cy="473.54996"
+     inkscape:cx="108.6938"
+     inkscape:cy="615.47038"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -47,6 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -54,12 +52,16 @@
      inkscape:label="1. réteg"
      inkscape:groupmode="layer"
      id="layer1">
+    <circle
+       style="opacity:1;fill:#424141;fill-opacity:1;stroke:none;stroke-width:12;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.8627451"
+       id="path4136"
+       cx="372.04724"
+       cy="353.79077"
+       r="75.714287" />
     <path
-       style="fill:#5c4568;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 459.27734 361.48633 L 385.25391 361.85938 L 366.16406 417.89062 L 410.76172 417.89062 L 459.27734 361.48633 z M 229.14258 438.21289 L 229.14258 483.21289 L 329.14258 603.21289 L 229.14258 743.21289 L 228.89258 788.21289 L 509.14258 788.21289 L 509.14258 698.21289 L 464.14258 698.21289 L 464.14258 743.21289 L 285.14453 743.21289 L 385.14453 603.21289 L 285.14453 483.21289 L 464.14258 483.21289 L 464.14258 528.21289 L 509.14258 528.21289 L 509.14258 438.21289 L 229.14258 438.21289 z "
-       id="path3336"
-       inkscape:export-filename="C:\Users\Gergely\erettsegik-assets\images\favico.png"
-       inkscape:export-xdpi="21.090792"
-       inkscape:export-ydpi="21.090792" />
+       style="opacity:1;fill:#424141;fill-opacity:1;stroke:none;stroke-width:12;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.8627451"
+       d="m 372.04722,402.32072 a 117.44484,137.14285 0 0 0 -117.4446,137.14453 117.44484,137.14285 0 0 0 0.0435,1.42773 l 234.78385,0 a 117.44484,137.14285 0 0 0 0.0619,-1.42773 117.44484,137.14285 0 0 0 -117.44461,-137.14453 z"
+       id="path4138"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>
